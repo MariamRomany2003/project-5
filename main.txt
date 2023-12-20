@@ -7,6 +7,9 @@ int main ()
    cout<<"let s try new concepts!";
    cout<<"learning git is fun!";
    cout<<my_sum(2,4,6);
+
+   cout<<"black friday sale";
+   cout<<"buy 2 get third item free";
 }
 int my_sum(int a,int b , int c)
 {
